@@ -54,5 +54,30 @@
       "available": true,
       "calories": 290
     }
+  ],
+  {
+  "equipe": [
+    {
+      "id": 1,
+      "nom": "Alice Dupont",
+      "role": "Chef de Projet",
+      "experience": 5,
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 2,
+      "nom": "Bob Martin",
+      "role": "Développeur Frontend",
+      "experience": 3,
+      "image": "https://via.placeholder.com/100"
+    },
+    {
+      "id": 3,
+      "nom": "Claire Bernard",
+      "role": "Designer UI/UX",
+      "experience": 4,
+      "image": "https://via.placeholder.com/100"
+    }
   ]
+}
 }
