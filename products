@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "category": "burgers",
+      "title": "Cheeseburger classique",
+      "description": "Un burger juteux avec du fromage fondant, des légumes frais et une sauce spéciale.",
+      "price": 5.99,
+      "available": true,
+      "calories": 450
+    },
+    {
+      "id": 1002,
+      "category": "burgers",
+      "title": "Double bacon burger",
+      "description": "Deux steaks hachés, du bacon croustillant, et une sauce BBQ maison.",
+      "price": 7.99,
+      "available": true,
+      "calories": 750
+    },
+    {
+      "id": 1003,
+      "category": "boissons",
+      "title": "Milkshake chocolat",
+      "description": "Un milkshake riche et crémeux au goût intense de chocolat.",
+      "price": 3.49,
+      "available": true,
+      "calories": 300
+    },
+    {
+      "id": 1004,
+      "category": "accompagnements",
+      "title": "Frites croustillantes",
+      "description": "Frites dorées et croustillantes, parfaites pour accompagner votre menu.",
+      "price": 2.99,
+      "available": true,
+      "calories": 320
+    },
+    {
+      "id": 1005,
+      "category": "poulet",
+      "title": "Nuggets de poulet",
+      "description": "De tendres morceaux de poulet panés, servis avec votre choix de sauce.",
+      "price": 4.49,
+      "available": false,
+      "calories": 400
+    },
+    {
+      "id": 1006,
+      "category": "desserts",
+      "title": "Tarte aux pommes",
+      "description": "Une tarte aux pommes classique avec une croûte dorée et une garniture sucrée.",
+      "price": 2.49,
+      "available": true,
+      "calories": 290
+    }
+  ]
+}
